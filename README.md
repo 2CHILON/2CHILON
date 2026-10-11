@@ -2,7 +2,7 @@
 
 # Hi, I'm 2CHILON
 
-Mathematics and Computer Science student at [JKUAT], Kenya, building backend and DevOps projects.
+Mathematics and Computer Science student at JKUAT, Kenya, building backend and DevOps projects.
 
 ## What I work with
 
