@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**2CHILON/2CHILON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm 2CHILON
 
-Here are some ideas to get you started:
+Mathematics and Computer Science student at [JKUAT], Kenya, building backend and DevOps projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+- **Languages:** Go, Python, Java
+- **Backend:** REST APIs, SQL databases, Spring Boot
+- **DevOps:** Docker, Docker Compose, GitHub Actions CI/CD
+
+## Featured projects
+
+// to be updated
+
+## Currently
+
+Learning cloud deployment and observability, and looking for backend or DevOps internship opportunities.
+
+## Contact
+
+##null
