@@ -83,20 +83,27 @@ I learn by building. Instead of only using tools, I like to understand how they 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=2CHILON&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2CHILON&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=2CHILON&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00e676&icon_color=00c853&text_color=c9d1d9&ring_color=00e676" />
 
-<img src="https://streak-stats.demolab.com?user=2CHILON&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2CHILON&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00e676&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=2CHILON&theme=dark&hide_border=true&background=0d1117&ring=00e676&fire=00c853&currStreakLabel=00e676" />
 
 </div>
 
 ---
 
-## 🏆 Activity Graph
+## 🏆 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2CHILON&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://ghchart.rshah.org/00c853/2CHILON" alt="Contribution graph" width="100%" />
 </div>
+
+---
 
 ---
 
