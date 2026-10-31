@@ -2,22 +2,22 @@
 
 # Hi, I'm 2CHILON
 
-Mathematics and Computer Science student at JKUAT, Kenya, building backend and DevOps projects.
+An aspiring backend and DevOps Engineer
 
 ## What I work with
 
-- **Languages:** Go, Python, Java
+- **Languages:** Go, Python, Java, Js
 - **Backend:** REST APIs, SQL databases, Spring Boot
 - **DevOps:** Docker, Docker Compose, GitHub Actions CI/CD
+- **Cloud:** AWS
 
 ## Featured projects
 
-// to be updated
+//Ride sharing platform deployed to aws 
 
 ## Currently
-
-Learning cloud deployment and observability, and looking for backend or DevOps internship opportunities.
-
+Working on building a decentralized exchange
 ## Contact
+
 
 ##null
