@@ -98,11 +98,7 @@ I learn by building. Instead of only using tools, I like to understand how they 
 ---
 
 ## 🏆 Contribution Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00c853/2CHILON" alt="Contribution graph" width="100%" />
-</div>
-
+?? undefined ?!!
 ---
 
 ---
