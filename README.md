@@ -1,4 +1,13 @@
-## hello , update me"
+## hello , update me
+
+## 🎯 Language Attributes
+
+<div align="center">
+  <img src="./language-radar.svg" alt="Language radar" width="520" />
+</div>
+
+#is the radar working?
+
 <!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi,%20I'm%20CHILON&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20DevOps%20%7C%20Systems%20Engineering&descAlignY=58&descSize=20" width="100%" />
