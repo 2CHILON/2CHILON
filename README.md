@@ -3,7 +3,7 @@
 ## 🎯 Language Attributes
 
 <div align="center">
-  <img src="./language-radar.svg" alt="Language radar" width="520" />
+  <img src="./language-radar.svg" alt="Language radar" width="300" />
 </div>
 
 #is the radar working?
