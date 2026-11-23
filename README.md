@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi,%20I'm%20CHILON&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20DevOps%20%7C%20Systems%20Engineering&descAlignY=58&descSize=20" width="100%" />
 
@@ -127,4 +127,4 @@ I learn by building. Instead of only using tools, I like to understand how they 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 
-</div> 
+</div>  -->
